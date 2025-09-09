@@ -8,8 +8,6 @@ The goal is to strengthen **problem-solving skills, data structures, and algorit
 ## 📂 Structure
 problem-solving/
 ├── leetcode/
-│ ├── arrays/
-│ ├── strings/
 ├── codewars/
 
 yaml
