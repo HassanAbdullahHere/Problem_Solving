@@ -1,6 +1,6 @@
 # Problem Solving Repository
 
-This repository contains my solutions to coding challenges from platforms like **LeetCode** and **Codewars**.  
+This repository contains my solutions to coding challenges from platforms like LeetCode and Codewars.  
 The goal is to strengthen **problem-solving skills, data structures, and algorithms** while keeping a record of progress.
 
 ---
@@ -9,9 +9,6 @@ The goal is to strengthen **problem-solving skills, data structures, and algorit
 problem-solving/
 ├── leetcode/
 ├── codewars/
-
-yaml
-Copy code
 
 - Each file is named after the problem title.
 - Solutions include problem statements in comments.
