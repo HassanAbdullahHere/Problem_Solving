@@ -26,3 +26,4 @@ problem-solving/
 - Improve problem-solving ability
 - Build a reference library of coding solutions
 - Maintain daily consistency with GitHub commits
+- Quick Revision
